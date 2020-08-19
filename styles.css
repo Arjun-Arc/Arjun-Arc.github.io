@@ -1,0 +1,24 @@
+h1{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+}
+.container{
+  max-width: 768px;
+ }
+
+.btn{
+  outline:none !important;
+  box-shadow: none !important;
+}
+
+.btn:focus{
+  outline: none !important;  
+} 
+
+.username{
+  font-weight:bold ;
+}
+.time{
+  font-weight: 0.6em;
+  color: #aaa;
+}
